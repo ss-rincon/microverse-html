@@ -1,5 +1,6 @@
 #main{
   display: flex;
+  background-color:green;
   flex-direction: column;
   justify-content: center;
   text-align: center;
@@ -18,3 +19,7 @@
 #img-caption{
   margin: 0 10vw;
 }
+#img{
+  background-color:blue;
+}
+  
